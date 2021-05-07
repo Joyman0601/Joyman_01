@@ -1,2 +1,2 @@
-git is shit.
+git is good.
 really
